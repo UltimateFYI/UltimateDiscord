@@ -2,16 +2,6 @@
 @import url("https://ellexidecodes.github.io/Discord-Themes/css/new-tags.css");
 ::selection {background:var(--main-color-faded);}
 /*
-/$$$$$$
-/$$__  $$
-| $$  \ $$ /$$   /$$  /$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$
-| $$$$$$$$| $$  | $$ /$$__  $$ /$$__  $$ /$$__  $$|____  $$
-| $$__  $$| $$  | $$| $$  \__/| $$  \ $$| $$  \__/ /$$$$$$$
-| $$  | $$| $$  | $$| $$      | $$  | $$| $$      /$$__  $$
-| $$  | $$|  $$$$$$/| $$      |  $$$$$$/| $$     |  $$$$$$$
-|__/  |__/ \______/ |__/       \______/ |__/      \_______/
-	       		By Tropical
-
 TABLE OF CONTENTS
 
 1. Background and Sizing
@@ -197,7 +187,7 @@ body::before {
 /*2.a. Main Titlebar*/
 .wordmark-2iDDfm path {display:none;}
 .wordmark-2iDDfm:after {
-	content:'Aurora v1.2.4';
+	content:'Ultimate';
 	position: absolute !important;
 	left: 5px;
 	width: 100vw;
@@ -2187,7 +2177,7 @@ img[src="/assets/5fb477ca84edd15d9a2888ac28365acd.svg"] {
 
 /*9.u Changelog*/
 #bd-settingspane-container .bda-slist::before {
-  content:"What's new in Aurora v1.2.x?\A -Animated Icons! \A -Several new addons.\A-Status Picker Redesign.\A -Support for var(--media-roundness) on Search Bubble.\A-Compatibility Tags for Themes & Plugins\A -Reply System, Permissions Viewer, DetailedSeverTooltips and StatusEverywhere are now themed!";
+  content:"Thank you for installing Ultimate's theme";
   display: block;
   line-height:22px;
   font-size:18px;
@@ -2642,7 +2632,7 @@ img[src="/assets/5fb477ca84edd15d9a2888ac28365acd.svg"] {
 .bda-slist li[data-name="FullSizePfp"]:after,
 .bda-slist li[data-name="Large Chat Avatars"]:after,
 .bda-slist li[data-name="ServerColumns"]:after {
-    content:'Compatible with Aurora';
+    content:'Compatible with Ultimate's theme';
     background:var(--main-color);
     padding:2px;
     width:160px;
@@ -2778,4 +2768,3 @@ img[src="/assets/5fb477ca84edd15d9a2888ac28365acd.svg"] {
 #app-mount .da-privateChannels .inner-1W0Bkn {
 	border-radius:var(--media-roundness) !important;
 }
-/*Thanks so much for using my theme, whoever decided to look here! Also thank you to the derealised server and everyone in it for their tags.*/
